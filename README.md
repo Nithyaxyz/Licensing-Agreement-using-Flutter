@@ -1,2 +1,16 @@
-# Licensing-Agreement-using-Flutter
-Vivid is a mobile application built using Flutter that helps streamline the creation of licensing agreements between a Licensor (content owner) and Licensee (content distributor). The app simplifies legal documentation by collecting essential details from both parties and automatically generating a ready-to-use licensing contract.
+# my_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
